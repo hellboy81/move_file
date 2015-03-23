@@ -1,8 +1,7 @@
 move_file
 =========
 
-
-<img src='http://g.gravizo.com/g?
+![Alt text](http://g.gravizo.com/g?
 @startuml;
 
 actor User;
@@ -29,4 +28,4 @@ A --> User: Done;
 deactivate A;
 
 @enduml
-'>
+)
